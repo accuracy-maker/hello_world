@@ -1,2 +1,5 @@
 # hello_world
-learn how to use github
+
+my first repository on github
+
+I want to learn python more
